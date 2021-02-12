@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="940" started-at="2020-11-15T11:22:45Z" finished-at="2020-11-15T11:22:46Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="940" started-at="2020-11-15T11:22:45Z" finished-at="2020-11-15T11:22:46Z">
+      <class name="com.test.jenkins.TestB">
+        <test-method status="PASS" signature="Amit()[pri:0, instance:com.test.jenkins.TestB@3159c4b8]" name="Amit" duration-ms="42" started-at="2020-11-15T11:22:46Z" finished-at="2020-11-15T11:22:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Amit -->
+        <test-method status="PASS" signature="pawan()[pri:0, instance:com.test.jenkins.TestB@3159c4b8]" name="pawan" duration-ms="65" started-at="2020-11-15T11:22:46Z" finished-at="2020-11-15T11:22:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pawan -->
+        <test-method status="PASS" signature="ravi()[pri:0, instance:com.test.jenkins.TestB@3159c4b8]" name="ravi" duration-ms="33" started-at="2020-11-15T11:22:46Z" finished-at="2020-11-15T11:22:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ravi -->
+        <test-method status="PASS" signature="utkarsh()[pri:0, instance:com.test.jenkins.TestB@3159c4b8]" name="utkarsh" duration-ms="23" started-at="2020-11-15T11:22:46Z" finished-at="2020-11-15T11:22:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- utkarsh -->
+      </class> <!-- com.test.jenkins.TestB -->
+      <class name="com.test.jenkins.TestA">
+        <test-method status="PASS" signature="reena()[pri:0, instance:com.test.jenkins.TestA@4b952a2d]" name="reena" duration-ms="82" started-at="2020-11-15T11:22:46Z" finished-at="2020-11-15T11:22:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reena -->
+        <test-method status="PASS" signature="richa()[pri:0, instance:com.test.jenkins.TestA@4b952a2d]" name="richa" duration-ms="53" started-at="2020-11-15T11:22:46Z" finished-at="2020-11-15T11:22:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- richa -->
+        <test-method status="PASS" signature="sania()[pri:0, instance:com.test.jenkins.TestA@4b952a2d]" name="sania" duration-ms="24" started-at="2020-11-15T11:22:46Z" finished-at="2020-11-15T11:22:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sania -->
+      </class> <!-- com.test.jenkins.TestA -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
